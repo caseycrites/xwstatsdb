@@ -6,11 +6,11 @@ Load CSV download of NYT Crossword stats from [xwstats][xwstats] into a Postgres
 
 The code here strips out all extra data added by [xwstats][xwstats] so you end up with just the raw data from NYT.
 
-Don't get me wrong, the extra data added by [xwstats][xwstats] are great, but I prefer to look at that on the site and play around with the raw data locally.
+Don't get me wrong, the extra data added by [xwstats][xwstats] is great, but I prefer to look at that on the site and play around with the raw data locally.
 
 ## Requirements
 
-- An [xwstats][xwstats] account (consider donating a few dollars to the maintainer for this wondeful service if you can)
+- An [xwstats][xwstats] account (consider donating a few dollars to the maintainer for this wonderful service if you can)
 - docker
 
 ## Usage
