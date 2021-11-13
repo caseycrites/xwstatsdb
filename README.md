@@ -20,7 +20,7 @@ Don't get me wrong, the extra data added by [xwstats][xwstats] is great, but I p
 1. Download your stats as a CSV from the Data page and move it to the root of this directory
 1. Run `make`
 
-### Access xwsstatsdb
+### Access xwstatsdb
 
 This will build and run a postgres 14 docker container named `xwstatsdb` listening at port 5432 which can be accessed with the following command:
 
